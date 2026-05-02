@@ -1,26 +1,26 @@
-# 💳 Credit Card Transaction Report
+#  Credit Card Transaction Report
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-## 📊 Project Overview
+##  Project Overview
 A professional financial dashboard designed to analyze credit card transaction data. The report provides a high-level view of revenue performance, customer acquisition costs, and card category utilization.
 
-## 🖼️ Dashboard Preview
+## \ Dashboard Preview
 ![Dashboard View](assets/dashboard_main.png)
 
-## 🚀 Key Insights
+##  Key Insights
 - **Total Revenue:** Generated **$3M** in transaction revenue.
 - **Interest Earned:** Accumulated **$7.84M** in interest, highlighting a strong profit margin from credit products.
 - **Transaction Volume:** Processed over **45M** individual transactions.
 - **Category Analysis:** The **Blue** card category is the dominant revenue driver, significantly outperforming Silver, Gold, and Platinum tiers.
 - **Utilization Trends:** Observed a sharp drop in utilization ratios for premium card tiers (Gold/Platinum) compared to entry-level cards.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Power BI Desktop:** For data modeling and visualization.
 - **Power Query:** Used for ETL (Extract, Transform, Load) operations on raw CSV data.
 - **DAX:** Implemented measures for aggregating total revenue and interest.
 
-## 💻 How to Run
+##  How to Run
 1.  **Clone the Repository:**
     ```
     git clone https://github.com/atharvakadam-7/Credit-Card-Financial-Dashboard.git
